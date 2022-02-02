@@ -1,0 +1,464 @@
+1643685988360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.kWqQe5TOAzYN"
+1643685989316	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.kWqQe5TOAzYN\\search.json.mozlz4", (void 0)))
+1643685993727	Marionette	INFO	Listening on port 55038
+1643685993806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643686015652	Marionette	INFO	Stopped listening on port 55038
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+g\\AppData\\Local\\Temp\\rust_mozprofile.xovLMsuCpdBG"
+1643686008033	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.xovLMsuCpdBG\\search.json.mozlz4", (void 0)))
+1643686010016	Marionette	INFO	Listening on port 55150
+1643686010344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643686011673	Marionette	INFO	Stopped listening on port 55150
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643686040640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.P1GdpgwgqgHw"
+1643686041104	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.P1GdpgwgqgHw\\search.json.mozlz4", (void 0)))
+1643686043396	Marionette	INFO	Listening on port 55259
+1643686043822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643686056118	Marionette	INFO	Stopped listening on port 55259
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643687986097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.CuyCF8znV2Xs"
+1643687986871	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.CuyCF8znV2Xs\\search.json.mozlz4", (void 0)))
+1643687989867	Marionette	INFO	Listening on port 54777
+1643687990301	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643689062886	Marionette	INFO	Stopped listening on port 54777
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.2QxzfTCbvNPe\\search.json.mozlz4", (void 0)))
+1643688123390	Marionette	INFO	Listening on port 51445
+1643688123681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643689061998	Marionette	INFO	Stopped listening on port 51445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+g\\AppData\\Local\\Temp\\rust_mozprofile.JR14q1vFZn6N"
+1643688209189	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.JR14q1vFZn6N\\search.json.mozlz4", (void 0)))
+1643688211380	Marionette	INFO	Listening on port 51757
+1643688211492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643689060970	Marionette	INFO	Stopped listening on port 51757
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+g\\AppData\\Local\\Temp\\rust_mozprofile.2hyjk9rEIjlW"
+1643688472704	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.2hyjk9rEIjlW\\search.json.mozlz4", (void 0)))
+1643688474846	Marionette	INFO	Listening on port 52297
+1643688475011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643688534479	Marionette	INFO	Stopped listening on port 52297
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643688749558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.48RuSZcJnea6"
+1643688749916	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.48RuSZcJnea6\\search.json.mozlz4", (void 0)))
+1643688752047	Marionette	INFO	Listening on port 57251
+1643688752220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643688857164	Marionette	INFO	Stopped listening on port 57251
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+d
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.zYL67mlKlRa1\\search.json.mozlz4", (void 0)))
+1643688814620	Marionette	INFO	Listening on port 57437
+1643688815123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643688859219	Marionette	INFO	Stopped listening on port 57437
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643688988200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.8C9vI9HvSaZb"
+1643688988591	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.8C9vI9HvSaZb\\search.json.mozlz4", (void 0)))
+1643688990782	Marionette	INFO	Listening on port 57736
+1643688990891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643689059561	Marionette	INFO	Stopped listening on port 57736
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643707812653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.SO3x7aqFh8lr"
+1643707814670	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.SO3x7aqFh8lr\\search.json.mozlz4", (void 0)))
+1643707818605	Marionette	INFO	Listening on port 56341
+1643707819088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643707831893	Marionette	INFO	Stopped listening on port 56341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643707909202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.usZLnUs8fCED"
+1643707909631	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.usZLnUs8fCED\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1643707912240	Marionette	FATAL	Remote protocol server failed to start: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIServerSocket.asyncListen]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: chrome://remote/content/marionette/server.js :: set acceptConnections :: line 89"  data: no] Stack trace: set acceptConnections()@server.js:89
+start()@server.js:114
+init/<()@Marionette.jsm:285
+observe()@resource://gre/modules/AsyncShutdown.jsm:575
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643707948888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.gAjghxVZZ6Fk"
+1643707949309	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.gAjghxVZZ6Fk\\search.json.mozlz4", (void 0)))
+1643707951315	Marionette	INFO	Listening on port 56574
+1643707951553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643708868009	Marionette	INFO	Stopped listening on port 56574
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\Local\\Temp\\rust_mozprofile.cggl2YfFO7xv"
+1643708578376	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.cggl2YfFO7xv\\search.json.mozlz4", (void 0)))
+1643708580709	Marionette	INFO	Listening on port 53513
+1643708581154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643708885136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.BKWp7vqF60IC"
+1643708885638	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.BKWp7vqF60IC\\search.json.mozlz4", (void 0)))
+1643708887895	Marionette	INFO	Listening on port 54425
+1643708888330	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643709385749	Marionette	INFO	Stopped listening on port 54425
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\Local\\Temp\\rust_mozprofile.12K13FggEIPe"
+1643708934425	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.12K13FggEIPe\\search.json.mozlz4", (void 0)))
+1643708936632	Marionette	INFO	Listening on port 54601
+1643708937143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643709384866	Marionette	INFO	Stopped listening on port 54601
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pt error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.9BQDYyczMBc4\\search.json.mozlz4", (void 0)))
+1643709222565	Marionette	INFO	Listening on port 51994
+1643709223034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643709383906	Marionette	INFO	Stopped listening on port 51994
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pt error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.mfJPso0NjVOo\\search.json.mozlz4", (void 0)))
+1643709280056	Marionette	INFO	Listening on port 52191
+1643709280480	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643709382645	Marionette	INFO	Stopped listening on port 52191
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pt error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.RNhdeALx50Vq\\search.json.mozlz4", (void 0)))
+1643709350391	Marionette	INFO	Listening on port 52464
+1643709350425	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643709380112	Marionette	INFO	Stopped listening on port 52464
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643709507319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.cwzzjBwCLqFv"
+*** You are running in headless mode.
+1643709507698	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.cwzzjBwCLqFv\\search.json.mozlz4", (void 0)))
+1643709509226	Marionette	INFO	Listening on port 52992
+1643709509389	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643710247915	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.AvD9TIcQsIXW"
+*** You are running in headless mode.
+1643710248407	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.AvD9TIcQsIXW\\search.json.mozlz4", (void 0)))
+1643710250310	Marionette	INFO	Listening on port 53962
+1643710250586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643710272472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.ngtqmV0O0mco"
+1643710272905	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.ngtqmV0O0mco\\search.json.mozlz4", (void 0)))
+1643710275080	Marionette	INFO	Listening on port 54165
+1643710275166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1643716466547	Marionette	INFO	Stopped listening on port 54165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 6216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Provider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1643716466589	Marionette	INFO	Stopped listening on port 54598
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+pt error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 68: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+1643716466548	Marionette	INFO	Stopped listening on port 54835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 18160, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+o a synchronous message for:" "https://mp.weixin.qq.com"
+1643713933052	Marionette	INFO	Stopped listening on port 50243
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\Local\\Temp\\rust_mozprofile.RxC6N0gIyzzl"
+1643713663833	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.RxC6N0gIyzzl\\search.json.mozlz4", (void 0)))
+1643713666013	Marionette	INFO	Listening on port 62179
+1643713666060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643713932658	Marionette	INFO	Stopped listening on port 62179
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pt error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.ziFpRc2MGAb5\\search.json.mozlz4", (void 0)))
+1643713790890	Marionette	INFO	Listening on port 62555
+1643713790929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643713931477	Marionette	INFO	Stopped listening on port 62555
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643720017702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.gJvDGi3ds5qk"
+1643720018965	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.gJvDGi3ds5qk\\search.json.mozlz4", (void 0)))
+1643720021831	Marionette	INFO	Listening on port 49597
+1643720021925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643720091507	Marionette	INFO	Stopped listening on port 49597
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643722370872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.0B9hIugVxJZf"
+1643722371908	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.0B9hIugVxJZf\\search.json.mozlz4", (void 0)))
+1643722375377	Marionette	INFO	Listening on port 51574
+1643722375701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643722446057	Marionette	INFO	Stopped listening on port 51574
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643722514617	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.skopuK6B5hfv"
+1643722515129	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.skopuK6B5hfv\\search.json.mozlz4", (void 0)))
+1643722517051	Marionette	INFO	Listening on port 59717
+1643722517337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643722555810	Marionette	INFO	Stopped listening on port 59717
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 23620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 23620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643722678517	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.xErxYUfZRIqQ"
+1643722678958	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643722811085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.yhocncc9xq9h"
+1643722811531	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.yhocncc9xq9h\\search.json.mozlz4", (void 0)))
+1643722813595	Marionette	INFO	Listening on port 49918
+1643722813785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643724732201	Marionette	INFO	Stopped listening on port 49918
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.akmCMquca9V9"
+1643723322832	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.akmCMquca9V9\\search.json.mozlz4", (void 0)))
+1643723327086	Marionette	INFO	Listening on port 50541
+1643723327274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2967: TypeError: event.target.closest is not a function
+1643723629399	Marionette	INFO	Stopped listening on port 50541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.2q5pl01OGrcD\\search.json.mozlz4", (void 0)))
+1643723517090	Marionette	INFO	Listening on port 65249
+1643723517573	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643723629933	Marionette	INFO	Stopped listening on port 65249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1643723869006	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.JtMqGpJOIsgr"
+1643723869742	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.JtMqGpJOIsgr\\search.json.mozlz4", (void 0)))
+1643723874152	Marionette	INFO	Listening on port 50074
+1643723874377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643724731142	Marionette	INFO	Stopped listening on port 50074
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\Local\\Temp\\rust_mozprofile.uDykKu89iDZq"
+1643724061801	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.uDykKu89iDZq\\search.json.mozlz4", (void 0)))
+1643724066877	Marionette	INFO	Listening on port 50870
+1643724066971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643724729340	Marionette	INFO	Stopped listening on port 50870
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\Local\\Temp\\rust_mozprofile.LjXSXCRBHmSO"
+1643724177026	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.LjXSXCRBHmSO\\search.json.mozlz4", (void 0)))
+1643724181174	Marionette	INFO	Listening on port 51142
+1643724181580	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643724727915	Marionette	INFO	Stopped listening on port 51142
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\Local\\Temp\\rust_mozprofile.iwlTWVPzUWFg"
+1643724411981	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.iwlTWVPzUWFg\\search.json.mozlz4", (void 0)))
+1643724415458	Marionette	INFO	Listening on port 63469
+1643724415719	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643724726538	Marionette	INFO	Stopped listening on port 63469
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+pt error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.iu6DnW0eTLwH\\search.json.mozlz4", (void 0)))
+1643724523063	Marionette	INFO	Listening on port 63746
+1643724523123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643724725296	Marionette	INFO	Stopped listening on port 63746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 4152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 4152, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643724997557	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.eDsG1yk7elxZ"
+1643724998105	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofile.eDsG1yk7elxZ\\search.json.mozlz4", (void 0)))
+1643725000817	Marionette	INFO	Listening on port 58562
+1643725001291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643725802588	Marionette	INFO	Stopped listening on port 58562
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+1643726338980	geckodriver	INFO	Listening on 127.0.0.1:54346
+1643726342016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54347" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofileB0vRXY"
+1643726342914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofileB0vRXY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54347/devtools/browser/7d4d9368-b946-42bf-ba30-14fd433dab8f
+1643726345675	Marionette	INFO	Listening on port 54355
+1643726345731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643726414882	geckodriver	INFO	Listening on 127.0.0.1:54532
+1643726417948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54533" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofileJzzVvq"
+1643726418277	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofileJzzVvq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54533/devtools/browser/14745a49-9f69-4c6f-a8da-9ab2e48605c0
+1643726420680	Marionette	INFO	Listening on port 54541
+1643726421124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643726421480	Marionette	INFO	Stopped listening on port 54541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1643726578071	geckodriver	INFO	Listening on 127.0.0.1:54806
+1643726581160	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54807" "-no-remote" "-profile" "C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofilemZHohv"
+1643726581556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mlng\\AppData\\Local\\Temp\\rust_mozprofilemZHohv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54807/devtools/browser/03f4f3dc-10c7-4cfc-95d9-0a11a3c4571e
+1643726584903	Marionette	INFO	Listening on port 54813
+1643726585387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://mp.weixin.qq.com"
+1643726633107	Marionette	INFO	Stopped listening on port 54813
+addonsSearchDetection.onRedirected event fired after context unloaded.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
